@@ -1,0 +1,14 @@
+body{
+  background: rgb(247, 176, 70);
+  font-size: 2.5rem;
+  align-items: center;
+  text-align: center;
+
+}
+img{
+  width: 44%;
+  height: 44%;
+  align-items: center;
+  padding: 14px 0px 14px 0px;
+  text-align: center;
+}
